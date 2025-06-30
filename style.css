@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.titulo{
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+.paragrafo{
+    font-size: 18px;
+    margin: 20px;    
+}
